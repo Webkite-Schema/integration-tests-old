@@ -1,0 +1,180 @@
+{
+    "facets" => [
+        {
+                "name" => "First Name",
+                "type" => "Text",
+            "metadata" => {
+                  "sortable" => false,
+                "filterable" => false
+            }
+        },
+        {
+                "name" => "Last Name",
+                "type" => "Text",
+            "metadata" => {
+                  "sortable" => true,
+                "filterable" => false
+            }
+        },
+        {
+                "name" => "Image",
+                "type" => "Image",
+            "metadata" => {
+                  "sortable" => false,
+                "filterable" => false
+            }
+        },
+        {
+                "name" => "Address 1",
+                "type" => "Text",
+            "metadata" => {
+                  "sortable" => false,
+                "filterable" => false
+            }
+        },
+        {
+                "name" => "Address 2",
+                "type" => "Location",
+            "metadata" => {
+                  "sortable" => false,
+                "filterable" => false
+            }
+        },
+        {
+                "name" => "City",
+                "type" => "Text",
+            "metadata" => {
+                  "sortable" => false,
+                "filterable" => false
+            }
+        },
+        {
+                "name" => "State",
+                "type" => "Text",
+            "metadata" => {
+                  "sortable" => false,
+                "filterable" => false
+            }
+        },
+        {
+                "name" => "Zip Code",
+                "type" => "Text",
+            "metadata" => {
+                  "sortable" => false,
+                "filterable" => false
+            }
+        },
+        {
+                "name" => "Country",
+                "type" => "Text",
+            "metadata" => {
+                  "sortable" => false,
+                "filterable" => false
+            }
+        },
+        {
+                "name" => "Email",
+                "type" => "Text",
+            "metadata" => {
+                  "sortable" => false,
+                "filterable" => false
+            }
+        },
+        {
+                "name" => "Phone Number",
+                "type" => "Text",
+            "metadata" => {
+                  "sortable" => false,
+                "filterable" => false
+            }
+        },
+        {
+                "name" => "Website",
+                "type" => "Text",
+            "metadata" => {
+                  "sortable" => false,
+                "filterable" => false
+            }
+        },
+        {
+                "name" => "Twitter",
+                "type" => "Text",
+            "metadata" => {
+                  "sortable" => false,
+                "filterable" => false
+            }
+        },
+        {
+                "name" => "University",
+                "type" => "Enum",
+            "metadata" => {
+                  "sortable" => false,
+                "filterable" => true
+            }
+        },
+        {
+                "name" => "Degree",
+                "type" => "Enum",
+            "metadata" => {
+                  "sortable" => false,
+                "filterable" => true
+            }
+        },
+        {
+                "name" => "Year of Graduation",
+                "type" => "DateTime",
+            "metadata" => {
+                  "sortable" => false,
+                "filterable" => false
+            }
+        },
+        {
+                "name" => "Employer",
+                "type" => "Enum",
+            "metadata" => {
+                  "sortable" => false,
+                "filterable" => true
+            }
+        },
+        {
+                "name" => "Department",
+                "type" => "Enum",
+            "metadata" => {
+                  "sortable" => false,
+                "filterable" => true
+            }
+        },
+        {
+                "name" => "Job Title",
+                "type" => "Text",
+            "metadata" => {
+                  "sortable" => false,
+                "filterable" => false
+            }
+        },
+        {
+                "name" => "Identification",
+                "type" => "Number",
+            "metadata" => {
+                  "sortable" => false,
+                "filterable" => false
+            }
+        },
+        {
+                "name" => "Identification2",
+                "type" => "Number",
+            "metadata" => {
+                  "sortable" => false,
+                "filterable" => false
+            }
+        },
+	{
+                "name" => "Salary",
+                "type" => "Number",
+            "metadata" => {
+                  "sortable" => false,
+                "filterable" => false
+            }
+        }
+    ]
+}
